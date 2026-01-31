@@ -1,0 +1,14 @@
+{
+  "name": "simple-nft-minter",
+  "version": "1.0.0",
+  "description": "Gas-efficient NFT boilerplate",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "erc721a": "^4.2.3",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
